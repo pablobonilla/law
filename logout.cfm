@@ -1,0 +1,1 @@
+<cfset Session.usuario_logueado = false>
